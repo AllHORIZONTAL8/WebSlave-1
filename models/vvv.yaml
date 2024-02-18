@@ -1,0 +1,9 @@
+title: vvv
+x-stoplight:
+  id: ga4eaq1auf8wm
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: gdu00zsfgfgr0

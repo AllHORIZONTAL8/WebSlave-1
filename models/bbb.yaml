@@ -1,0 +1,9 @@
+title: bbb
+x-stoplight:
+  id: cc0kz5sq06s5i
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: rdt7ggehbf6zr
